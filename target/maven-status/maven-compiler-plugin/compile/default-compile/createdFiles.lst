@@ -1,0 +1,12 @@
+com\infosys\product\entity\SubscribedProduct.class
+com\infosys\product\repository\ProductRepository.class
+com\infosys\product\entity\Product.class
+com\infosys\product\repository\SubscribedProductRepository.class
+com\infosys\product\ProductApplication.class
+com\infosys\product\dto\ProductDTO.class
+com\infosys\product\dto\SubscribedProductDTO.class
+com\infosys\product\dto\ProductsOrderedDTO.class
+com\infosys\product\validator\Validator.class
+com\infosys\product\sevice\ProductService.class
+com\infosys\product\controller\ProductController.class
+com\infosys\product\dto\BuyerDTO.class

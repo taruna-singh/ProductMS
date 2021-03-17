@@ -1,0 +1,24 @@
+
+Ocom.infosys.product.controller.ProductController#reduceStock(Ljava/util/List;)Zp
+dC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/controller/ProductController.java¦ ¦("1*¯
+1p
+dC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/controller/ProductController.java¨ ¨(ö
+ó
+p
+dC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/controller/ProductController.java¨ ¨(/
+%0)com.infosys.product.sevice.ProductService"__id*H*F2
+0com.infosys.product.controller.ProductController"
+productServiceÂ¿
+p
+dC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/controller/ProductController.java¨ ¨(-
+
+%1void"Hcom.infosys.product.sevice.ProductService#reduceStock(Ljava/util/List;)V*1
+/
+%0)com.infosys.product.sevice.ProductService*#
+!
+productsOrderedjava.util.List2reduceStock(Ljava/util/List;)"z
+p
+dC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/controller/ProductController.java© ©(
+"":!
+productsOrderedjava.util.ListB42
+0com.infosys.product.controller.ProductController

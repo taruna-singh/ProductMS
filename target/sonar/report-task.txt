@@ -1,0 +1,7 @@
+organization=milan0410
+projectKey=com.infosys:ProductMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18249
+dashboardUrl=https://sonarcloud.io/dashboard?id=com.infosys%3AProductMS
+ceTaskId=AXg8wD-Q8od_rE1qkWF_
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXg8wD-Q8od_rE1qkWF_

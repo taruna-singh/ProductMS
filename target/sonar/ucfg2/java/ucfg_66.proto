@@ -1,0 +1,16 @@
+
+=com.infosys.product.dto.BuyerDTO#getEmail()Ljava/lang/String;^
+TC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/dto/BuyerDTO.java ("1*”
+1^
+TC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/dto/BuyerDTO.java (²
+¯
+^
+TC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/dto/BuyerDTO.java (
+%0java.lang.String"__id*/*-"
+ com.infosys.product.dto.BuyerDTO"
+email"z
+^
+TC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/dto/BuyerDTO.java (
+
+%0java.lang.StringB$"
+ com.infosys.product.dto.BuyerDTO

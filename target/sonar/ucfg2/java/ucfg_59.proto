@@ -1,0 +1,33 @@
+
+ecom.infosys.product.controller.ProductController#deleteProduct(Ljava/lang/Integer;)Ljava/lang/String;p
+dC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/controller/ProductController.javaô ô("5*∆
+4p
+dC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/controller/ProductController.javaú ú(3∫
+∑
+p
+dC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/controller/ProductController.javaú ú(4
+successjava.lang.String"__id* 
+Product successfully deleted"ë
+p
+dC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/controller/ProductController.javaù ù(
+
+successjava.lang.String*º
+5p
+dC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/controller/ProductController.javaõ õ(ˆ
+Û
+p
+dC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/controller/ProductController.javaõ õ(/
+%0)com.infosys.product.sevice.ProductService"__id*H*F2
+0com.infosys.product.controller.ProductController"
+productService∆√
+p
+dC:/Users/Milan Vishnoi/ProductMS/src/main/java/com/infosys/product/controller/ProductController.javaõ õ(*
+
+%1void"Mcom.infosys.product.sevice.ProductService#deleteProduct(Ljava/lang/Integer;)V*1
+/
+%0)com.infosys.product.sevice.ProductService*
+
+prodIdjava.lang.Integer2"deleteProduct(Ljava/lang/Integer;)*
+4:
+prodIdjava.lang.IntegerB42
+0com.infosys.product.controller.ProductController
